@@ -140,7 +140,7 @@ Download and install [XAMPP](https://www.apachefriends.org) which includes PHP a
 
 **Option A — PHP built-in server (Linux/Mac, recommended)**
 ```bash
-git clone https://github.com/YOUR_USERNAME/digital-diary.git
+git clone https://github.com/HibaFayona/Digital-Diary.git
 cd digital-diary
 php -S localhost:8000
 ```
@@ -192,5 +192,5 @@ MIT License — free to use, modify, and distribute.
 
 ## 👤 Author
 
-Made by **Fay**  
-[github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Made by **HibaFayona**  
+[github.com/YOUR_USERNAME](https://github.com/HibaFayona)
